@@ -1,0 +1,1 @@
+prinr("plik a - zmiana 1")
